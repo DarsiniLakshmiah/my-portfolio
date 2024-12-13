@@ -38,7 +38,26 @@
    - **Skills Used**: Regression Modeling, Data Analysis, Renewable Energy
    - [View Project](https://github.com/DarsiniLakshmiah/Turbine_Power_Curve_Estimation)
 
+### 5. **Abalone Age Prediction Model using R**
+   - **Description**: The Abalone Age Prediction project aims to predict the age of abalones using physical and biological features, leveraging machine learning techniques to create accurate and interpretable models. The project addresses key challenges such as multicollinearity, heteroscedasticity, and influential data points. By implementing multiple linear regression and decision tree models, we explore data-driven approaches to automate age prediction, which traditionally requires time-consuming manual methods.
+   - **Skills Used**: Regression Modeling, Data Analysis, Model Evaluation , Tree based Modelling
+   - [View Project](https://github.com/DarsiniLakshmiah/Abalone_Age_Prediction_using_R)
 ---
+## 📈 Data Analysis and Insights Dashboard.
+
+🔗 **Explore my Tableau Public Profile here:** [My Tableau Public Portfolio](https://public.tableau.com/app/profile/darsini.lakshmiah/vizzes)  
+
+## 🌟 What You’ll Find  
+- 📊 **Interactive Dashboards:** Dive into projects like customer churn analysis, sentiment tracking, and more.  
+- 🔍 **Insightful Analytics:** Real-world applications of data visualization and analytics.  
+- 💡 **Creative Solutions:** Combining storytelling and technical precision to solve complex problems.  
+
+---
+
 
 ### 🚀 Let's Connect!
 Feel free to reach out or explore my GitHub for more details on my work. I’m excited to connect with industry professionals, discuss data science, and share knowledge.
+
+📬 **Contact Me:** darsini.lakshmiah@example.com  
+🌐 **LinkedIn:** [Darsini Lakshmiah](https://linkedin.com/in/darsinilakshmiah)  
+📂 **Portfolio Website:** [My GitHub Profile](https://darsinilakshmiah.github.io/Darsini_Lakshmiah.github.io/index.html) 
