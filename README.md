@@ -46,7 +46,7 @@
 ### 6. **Asthma Prevalence Prediction Using Machine Learning**
  - **Description**: Developed a machine learning pipeline to predict the prevalence of current asthma (CASTHMA) at the county level using the CDC PLACES dataset. The project integrated behavioral, preventive, and geographic features (including spatial coordinates) to model small-area health outcomes. Applied and evaluated various models including SVR, Ridge, Gradient Boosting, Neural Networks, and Gaussian Process Regression (GPR). GPR was specifically used to quantify uncertainty through confidence intervals, enhancing interpretability for public health applications.
  - **Skills Used**: The project involved using machine learning techniques such as Regression, SVR, Gradient Boosting, Neural Networks, and Gaussian Process Regression (GPR). I applied data preprocessing and feature engineering to clean and transform data for optimal performance. The modeling process included spatial data modeling, hyperparameter tuning with RandomizedSearchCV, and model evaluation using metrics like R², MSE, and confidence intervals. The tools and libraries used included Python, Pandas, Scikit-learn, Matplotlib, and Seaborn, along with techniques like MinMaxScaler and kernel designs including RBF, Matern, and Rational Quadratic.
- - [View Project](https://github.com/DarsiniLakshmiah/Abalone_Age_Prediction_using_R)
+ - [View Project](https://github.com/DarsiniLakshmiah/AsthmaPrediction_MLModelsls)
 ---
 ## 📈 Data Analysis and Insights Dashboard.
 
